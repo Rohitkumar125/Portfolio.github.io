@@ -8,7 +8,7 @@ This Project I have created during Future Ready Talent Internship Program by Mic
 
 **Project Link:** https://portfoliosite521.z13.web.core.windows.net/
 
-**Features/Synopsis : **
+**Features/Synopsis :**
 1. Portfolio Website shows the Work and Skills in well organized manner, it increases the personal presence experience. 
 2. It gives a first impression for the employers, so it is best way to showcase our experience.
 3. The main goal is to get attracted and get connected to more client. 
